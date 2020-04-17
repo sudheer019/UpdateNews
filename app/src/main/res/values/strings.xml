@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DailyNewsForu</string>
+    <string name="title_activity__home_screen_main">Activity_HomeScreenMain</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_business">Business</string>
+    <string name="menu_Entertainment">Entertainment</string>
+    <string name="menu_health">Health</string>
+    <string name="menu_science">Science</string>
+    <string name="menu_technology">Technology</string>
+    <string name="menu_sports">Sports</string>
+
+    <string name="business_second">Home Second</string>
+    <string name="dailyinfo">Daily Updated News For you</string>
+    <string name="menu_headlines">Top News</string>
+</resources>
